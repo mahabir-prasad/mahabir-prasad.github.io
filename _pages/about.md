@@ -9,7 +9,7 @@ profile:
   image: profile-pic-mp2.png
   image_circular: true # crops the image to make it circular
   more_info: >
-  # <p>234 Theory of Complex Systems</p>
+    # <p>234 Theory of Complex Systems</p>
     <p>Center for Advanced Systems Understanding</p>
     <p>Helmholtz-Zentrum Dresden-Rossendorf</p>
     <p>Conrad-Schiedt-Str. 20, D-02826 Görlitz</p>
