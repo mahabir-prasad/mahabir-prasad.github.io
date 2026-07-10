@@ -35,10 +35,11 @@ cv:
         start_date: 2015
         end_date: 2022
         score: ""
-        courses: "Thesis title: Molecular Dynamics Simulation Study of Liquid Water and its properties."
+        courses: "Thesis title: *Molecular Dynamics Simulation Study of Liquid Water and its properties.*"
         highlights:
           - This thesis explored the structural, dynamical, and thermodynamical behaviour of liquid water from ambient to supercooled conditions.
-          #- Description 2.
+          - "Supervisor: Dr. Somendra Nath Chakraborty"
+          - "Thesis link: [Link 1](https://dspace.cus.ac.in/jspui/handle/1/7767) and [Link 2](http://hdl.handle.net/10603/419025)"
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
