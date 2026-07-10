@@ -157,7 +157,7 @@ cv:
         #summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Ultranarrow nanochannels in a staggered two-dimensional polymer membrane enhance electric double-layer coverage for osmotic energy harvesting
+      - title: Ultranarrow nanochannels in a staggered two-dimensional polymer membrane enhance electric double-layer coverage for osmotic energy harvesting$^{*}$
         authors: Feng Ni$^{*}$, Ye Yang$^{*}$, Shuangjie Zhao$^{*}$, **Mahabir Prasad$^{*}$**, Naveen Goyal, Xusheng Yang, Dongxu Wang, Jianjun Zhang, Mike Hambsch, Miroslav Polozij,
                  Stefan C. B. Mannsfeld, Ute Kaiser, Grégory F. Schneider, Thomas D. Kühne, Thomas Heine, Zhiyong Wang & Xinliang Feng
         publisher: Nature Communications
@@ -165,21 +165,54 @@ cv:
         url: https://www.nature.com/articles/s41467-026-74696-4
         summary: $^{*}$Equal contribution
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: On-liquid surface synthesis of diyne-linked two-dimensional polymer crystals
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Ye Yang, Yufeng Wu, Chang Liu, Mike Hambsch, Tiange Dong, David Bodesheim, Mahabir Prasad,
+            Arezoo Dianat, Thomas D. Kühne, Gianaurelio Cuniberti, Stefan C. B. Mannsfeld, Stuart S. P. Parkin, Renhao Dong, Zhiyong Wang & Xinliang Feng
+        publisher: Nature Communications
+        releaseDate: 2025-09-08
+        url: https://www.nature.com/articles/s41467-025-63768-6
+        #summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Effect of static electric fields on liquid water, its structure, dynamics, and hydrogen bond asymmetry: A molecular dynamics simulation study of TIP4P/2005 water model
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Mahabir Prasad, Niall J. English & Somendra Nath Chakraborty
+        publisher: The Journal of Chemical Physics
+        releaseDate: 2023-08-07
+        url: https://pubs.aip.org/aip/jcp/article/159/5/054504/2905631/Effect-of-static-electric-fields-on-liquid-water
+        #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+       
+      - title: Hydrogen bonding in liquid water at 1 GPa : Molecular Dynamics Simulation Study of TIP4P/2005 Water Model
+        authors:
+          - Mahabir Prasad & Somendra Nath Chakraborty
+        publisher: Computational and Theoretical Chemistry
+        releaseDate: 2021-12-02
+        url: https://www.sciencedirect.com/science/article/pii/S2210271X21003856
+        #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
+      - title: Donor-Acceptor Structure and Dynamics: Molecular Dynamics Simulation Study of TIP4P/2005 Water Model
+        authors:
+          - Mahabir Prasad, Niall J. English & Somendra Nath Chakraborty
+        publisher: Chemical Physics Letters
+        releaseDate: 2021-04-08
+        url: https://www.sciencedirect.com/science/article/pii/S0009261421002645
+        #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
+      - title: Local structure in water and its comparison with hexagonal ice from molecular dynamics simulations of TIP4P/2005 water model
+        authors:
+          - Mahabir Prasad & Somendra Nath Chakraborty
+        publisher: Molecular Simulation
+        releaseDate: 2020-03-13
+        url: https://www.tandfonline.com/doi/abs/10.1080/08927022.2020.1739282
+        #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
+      - title: Relaxation dynamics and power spectra of liquid water: a molecular dynamics simulation study
+        authors:
+          - Mahabir Prasad, Niall J. English & Somendra Nath Chakraborty
+        publisher: Molecular Physics
+        releaseDate: 2020-02-27
+        url: https://www.tandfonline.com/doi/abs/10.1080/00268976.2020.1733117
+        #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
       - name: Physics
