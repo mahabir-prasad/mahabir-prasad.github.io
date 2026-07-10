@@ -144,15 +144,16 @@ cv:
         authors:
           - "ICFAI University, Sikkim"
         date: 2023
-        #awarder: Royal Swedish Academy of Sciences
-        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        awarder: ICFAI University, Sikkim
+        url: https://www.iusikkim.edu.in/
         #summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
       - title: Silver medalist in MSc Chemistry
         authors:
           - "Sikkim University"
         date: 2015
-        #awarder: German Physical Society
+        awarder: Sikkim University
+        url: https://cus.ac.in/index.php/en/
         #summary: Awarded for outstanding scientific achievement
 
     Publications:
