@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -39,3 +39,5 @@ My work integrates quantum mechanical calculations with large-scale molecular dy
 
 My long-term research vision is to leverage computational chemistry and molecular simulations to accelerate the discovery of functional materials for clean energy, nanofluidics, and environmental sustainability.
 By bridging molecular-scale understanding with materials design, I aim to contribute to the development of efficient membranes and advanced materials that address global challenges in energy conversion and storage.
+
+Outside the lab, I enjoy reading and writing poetry, exploring nature through hiking and trekking, teaching, and spending time playing or watching cricket.
