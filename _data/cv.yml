@@ -221,16 +221,38 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: "Read, Speak, Write, Understand"
+
+    Languages:
+      - name: Hindi
+        summary: "Read, Speak, Write, Understand"
+
+    Languages:
+      - name: Nepali
+        summary: "Read, Speak, Write, Understand"
+
+    Languages:
+      - name: Bhojpuri
+        summary: "Read, Speak, Write, Understand"
 
     Interests:
-      - name: Physics
+      - name: Poetry
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Interests:
+      - name: Hiking/Trekking
+        icon: fa-solid fa-tag
+        #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Interests:
+      - name: Teaching
+        icon: fa-solid fa-tag
+        #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Interests:
+      - name: Cricket
+        icon: fa-solid fa-tag
+        #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
       - name: Machine Learning
