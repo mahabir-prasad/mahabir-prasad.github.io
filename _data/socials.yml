@@ -3,10 +3,10 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: m.prasad@hzdr.de # your email address
-research_gate_profile: https://www.researchgate.net/profile/Mahabir-Prasad-3
-scholar_userid: https://scholar.google.com/citations?user=wG4btBMAAAAJ&hl=en&oi=ao
-orcid_id: https://orcid.org/0000-0002-6586-5609
-linkedin_username: https://de.linkedin.com/in/mahabir-prasad-885452117
+research_gate_profile: Mahabir-Prasad-3
+scholar_userid: wG4btBMAAAAJ&hl=en&oi=ao
+orcid_id: 0000-0002-6586-5609
+linkedin_username: mahabir-prasad-885452117
 #inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: true # comment this line to hide the RSS icon
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
