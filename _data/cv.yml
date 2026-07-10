@@ -98,69 +98,62 @@ cv:
         #  - "Thesis link: [Link 1](https://dspace.cus.ac.in/jspui/handle/1/7767) and [Link 2](http://hdl.handle.net/10603/419025)"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf
+        position: Postdoctoral Researcher
+        location: Görlitz, Germany
+        start_date: Feb. 2024
+        end_date: Present
+        #summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: SRM University, Sikkim
+        position: Assistant Professor
+        location: Tadong, Sikkim, India
+        start_date: 2023
+        end_date: 2024
+        #summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Academy Brain Storm
+        position: Tutor (Chemistry)
+        location: Tadong, Sikkim, India
+        start_date: 2015
+        end_date: 2022
+        #summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    #Volunteer:
+      #- company: People's Climate March
+      #  position: Lead Organizer
+      #  location: Zurich, Switzerland
+      #  start_date: 2014-04-01
+      #  end_date: 2015-07-01
+      #  summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      #  highlights:
+      #    - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+      #    - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: N. J. Yasaswy Global Impact Teacher Award
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "ICFAI University, Sikkim"
+        date: 2023
+        #awarder: Royal Swedish Academy of Sciences
+        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        #summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Max Planck Medal
+      - title: Silver medalist in MSc Chemistry
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Sikkim University"
+        date: 2015
+        #awarder: German Physical Society
+        #summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
