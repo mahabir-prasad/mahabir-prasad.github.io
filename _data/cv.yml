@@ -216,10 +216,40 @@ cv:
         #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
  
     Skills:
-      - name: Physics
-        level: Master
+      - name: Simulations
+      #  level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Extensively used DFT, classical and Ab initio MD simulation techniques, and familiar with Monte Carlo simulation.
+                    Performed advanced sampling methods like Umbrella sampling and Metadynamics."
+
+      - name: General Numerical Methods
+      #  level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Used statistical methods of data analysis like integration, differentiation, regression,
+                   non-linear curve fitting, correlation, deconvulation, etc."
+
+      - name: Softwares
+      #  level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Extensively used CP2K, ORCA, GAMESS, GROMACS, Voro++,
+                   packmol, VESTA, VMD, OVITO, Avogadro, Origin, Grace,
+                   GIMP, gnuplot. Familiar with LAMMPS, MCCCS Towhee, Gaussian, and PLUMED."
+
+      - name: Coding Languages
+      #  level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Extensively used Fortran 77 and Fortran 95.
+                   Familiar with Python."
+
+      - name: Operating Systems
+      #  level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Linux/UNIX and Windows"
+
+      - name: Other tools
+      #  level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "LATEX, LibreOffice, Microscoft Office"     
 
     Languages:
       - name: English
