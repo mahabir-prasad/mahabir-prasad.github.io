@@ -208,7 +208,7 @@ cv:
         url: https://www.tandfonline.com/doi/abs/10.1080/00268976.2020.1733117
         #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-Conferences:
+    Conferences:
       - title: Workshop and Symposium on Advanced Simulation Methods:- DFT, MD and Beyond Basic Principles and Modern Insights (ASM2019)
         #authors: 
         publisher: Indian Institute of Technology, Delhi
@@ -253,16 +253,10 @@ Conferences:
     Languages:
       - name: English
         summary: "Read, Speak, Write, Understand"
-
-    Languages:
       - name: Hindi
         summary: "Read, Speak, Write, Understand"
-
-    Languages:
       - name: Nepali
         summary: "Read, Speak, Write, Understand"
-
-    Languages:
       - name: Bhojpuri
         summary: "Read, Speak, Write, Understand"
 
@@ -270,16 +264,12 @@ Conferences:
       - name: Poetry
         icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-    Interests:
       - name: Hiking/Trekking
         icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Interests:
       - name: Teaching
         icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-    Interests:
       - name: Cricket
         icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
