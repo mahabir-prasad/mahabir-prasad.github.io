@@ -10,17 +10,17 @@ cv:
            and electrochemical energy storage.
 
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  #social_networks:
+  #  - network: X
+  #    username: AlbertEinstein
+  #  - network: GitHub
+  #    username: example
+  #  - network: LinkedIn
+  #    username: example
 
   address:
     street: Conrad-Schiedt-Str. 20
-    city: Görlitz
+    city: Görlitz, Germany
     # region: California
     postalCode: D-02826
     countryCode: Germany
@@ -214,7 +214,16 @@ cv:
         releaseDate: 2020-02-27
         url: https://www.tandfonline.com/doi/abs/10.1080/00268976.2020.1733117
         #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-        
+ 
+    Conferences:
+      - name: Quantum Computing
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+        highlights:
+          - Quantum Teleportation
+          - Quantum Cryptography
+        start_date: 2018-01-01
+        end_date: 2018-01-01
+ 
     Skills:
       - name: Physics
         level: Master
@@ -232,16 +241,16 @@ cv:
         summary: "Read, Speak, Write, Understand"
 
     Interests:
-      - name: Poetry
+      - name: "Poetry"
         icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-      - name: Hiking/Trekking
+      - name: "Hiking/Trekking"
         icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-      - name: Teaching
+      - name: "Teaching"
         icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-      - name: Cricket
+      - name: "Cricket"
         icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
@@ -261,14 +270,14 @@ cv:
        # issuer: Stanford University
         #icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    #Projects:
+    #  - name: Quantum Computing
+    #    summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #    highlights:
+    #      - Quantum Teleportation
+    #      - Quantum Cryptography
+    #    start_date: 2018-01-01
+    #    end_date: 2018-01-01
 
     References:
       - name: Professor John Doe
