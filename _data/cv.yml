@@ -241,18 +241,18 @@ cv:
         summary: "Read, Speak, Write, Understand"
 
     Interests:
-      - name: ""
+    #  - name: ""
         icon: fa-solid fa-tag
-        keywords: "**Poetry**"
-      - name: ""
+        keywords: **Poetry**
+    #  - name: ""
         icon: fa-solid fa-tag
-        keywords: "**Hiking/Trekking**"
-      - name: ""
+        keywords: **Hiking/Trekking**
+    #  - name: ""
         icon: fa-solid fa-tag
-        keywords: "**Teaching**"
-      - name: ""
+        keywords: **Teaching**
+    #  - name: ""
         icon: fa-solid fa-tag
-        keywords: "**Cricket**"
+        keywords: **Cricket**
 
     #Certificates:
      # - name: Machine Learning
