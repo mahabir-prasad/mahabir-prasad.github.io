@@ -9,11 +9,11 @@ profile:
   image: profile-pic-mp2.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> email: m.prasad@hzdr.de # your email address
-    <p> research_gate_profile: Mahabir-Prasad-3 </p>
-    <p> scholar_userid: wG4btBMAAAAJ&hl=en&oi=ao </p>
-    <p> orcid_id: 0000-0002-6586-5609 </p>
-    <p> linkedin_username: mahabir-prasad-885452117 </p>
+  email: m.prasad@hzdr.de # your email address
+  research_gate_profile: Mahabir-Prasad-3
+  scholar_userid: wG4btBMAAAAJ&hl=en&oi=ao
+  orcid_id: 0000-0002-6586-5609
+  linkedin_username: mahabir-prasad-885452117
     <p>Center for Advanced Systems Understanding</p>
     <p>Helmholtz-Zentrum Dresden-Rossendorf</p>
     <p>Conrad-Schiedt-Str. 20, D-02826 Görlitz, Germany</p>
