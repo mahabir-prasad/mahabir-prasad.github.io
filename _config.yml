@@ -186,13 +186,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: true
+    output: false
   teachings:
     output: true
 
