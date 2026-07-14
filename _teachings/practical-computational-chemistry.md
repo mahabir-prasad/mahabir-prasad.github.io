@@ -1,10 +1,13 @@
 ---
 layout: course
 title: Practical Computational Chemistry
-description: This course provides a comprehensive practical introduction to Computational Chemistry.
+description: This course introduces the fundamentals of computational chemistry and molecular modeling, with a focus on quantum chemical calculations,
+             molecular dynamics simulations, and conformational analysis.
+             Students learn to perform Gaussian calculations, predict molecular properties, model chemical reactions,
+             generate force-field parameters, and conduct molecular dynamics simulations in both gas-phase and solvated environments using modern computational tools.
 instructor: Dr. Mahabir Prasad
 year: 2023 - 2024
-term: MSc. III Semenster
+term: MSc. III Semester
 #location: Science Building, Room 202
 #time: Mondays and Wednesdays, 2:00-3:30 PM
 course_id: practical-computational-chemistry
