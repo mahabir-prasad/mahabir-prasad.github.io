@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: This page provides an overview of the courses I taught during my tenure as an Assistant Professor at SRM University.
 nav: true
 nav_order: 2
