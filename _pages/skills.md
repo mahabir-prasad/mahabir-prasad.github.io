@@ -4,7 +4,7 @@ title: Skills
 permalink: /skills/
 description: A showcase of skills I've acquired, organized by category.
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 <!--
