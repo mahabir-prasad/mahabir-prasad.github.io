@@ -24,14 +24,21 @@
   #description: Software I use to design, illustrate, and prototype.
   items:
     - image: assets/img/skills/CP2K_logo.png
-      description: [CP2K](https://www.cp2k.org/)
+      description: CP2K
+      link: https://www.cp2k.org/
     - image: assets/img/skills/orca-logo2.png
-      description: [ORCA](https://www.faccts.de/orca/)
+      description: ORCA
+      link: https://www.faccts.de/orca/
     - image: assets/img/skills/gamess.jpeg
-      description: [GAMESS](https://www.msg.chem.iastate.edu/gamess/)
+      description: GAMESS
+      link: https://www.msg.chem.iastate.edu/gamess/
     - image: assets/img/skills/gromacs.png
-      description: [GROMACS](https://www.gromacs.org/)
+      description: GROMACS
+      link: https://www.gromacs.org/
     - image: assets/img/skills/lammps.png
-      description: [LAMMPS](https://www.lammps.org/#gsc.tab=0)
+      description: LAMMPS
+      link: https://www.lammps.org/#gsc.tab=0
     - image: assets/img/skills/towhee.jpg
-      description: [MCCCS Towhee](https://towhee.sourceforge.net/)
+      description: MCCCS Towhee
+      link: https://towhee.sourceforge.net/
+      
