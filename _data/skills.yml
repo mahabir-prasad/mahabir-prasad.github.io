@@ -12,13 +12,13 @@
   #description: Languages I write and ship code in regularly.
   items:
     - image: assets/img/skills/DFT.png
-      description: Density Functional Theory
+      description: <strong>Density Functional Theory<strong>
     - image: assets/img/skills/MD-classical-ab-initio.png
-      description: Classical and Ab-initio Molecular Dynamics
+      description: <strong>Classical and Ab-initio Molecular Dynamics<strong>
     - image: assets/img/skills/monte-carlo.png
-      description: Monte Carlo simulation
+      description: <strong>Monte Carlo simulation<strong>
     - image: assets/img/skills/sampling.png
-      description: Umbrella Sampling and Metadynamics
+      description: <strong>Umbrella Sampling and Metadynamics<strong>
 
 - name: Softwares
   #description: Software I use to design, illustrate, and prototype.
