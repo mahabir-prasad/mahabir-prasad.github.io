@@ -185,17 +185,17 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
   teachings:
-    output: true
+    output: false
   gallery:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
