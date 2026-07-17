@@ -1,5 +1,5 @@
 ---
-title:
+title: Moments...
 date: 2017-02-17
 images:
   - path: assets/img/gallery/rtc-2017.png
