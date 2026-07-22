@@ -701,3 +701,8 @@ jsonresume:
   - languages
   - interests
   - references
+
+page_background_image: /assets/img/ions-passing.png # e.g. /assets/img/ions-passing.png — leave blank to disable entirely
+page_background_opacity: 0.15
+page_background_blur: 10
+page_background_speed: 0.3
