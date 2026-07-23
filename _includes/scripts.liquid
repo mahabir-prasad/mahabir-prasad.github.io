@@ -154,7 +154,8 @@
       moleculeUrl: "{{ site.page_background_molecule | relative_url }}",
       opacity: {{ site.page_background_opacity | default: 0.15 }},
       blur: {{ site.page_background_blur | default: 10 }},
-      mouseStrength: {{ site.page_background_mouse_strength | default: 0.6 }}
+      mouseStrength: {{ site.page_background_mouse_strength | default: 0.6 }},
+      moleculeLimit: {{ site.page_background_molecule_limit | default: "null" }}
     };
   </script>
   <script defer src="{{ '/assets/js/page-molecule-background.js' | relative_url | bust_file_cache }}"></script>
