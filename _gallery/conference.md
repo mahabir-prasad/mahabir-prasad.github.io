@@ -77,5 +77,12 @@ images:
     date: 2026-04-15
     #description: >
     #  Standing next to my poster during the evening session — great
+    #  conversations and a few new collaborations sparked here.
+
+  - path: assets/img/gallery/convocation_su.png
+    title: At the 6$^{th}$ Convocation Ceremony, Sikkim University. Officially receiving my PhD degree.
+    date: 2022-11-18
+    #description: >
+    #  Standing next to my poster during the evening session — great
     #  conversations and a few new collaborations sparked here. 
 ---
