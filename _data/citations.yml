@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-31'
 papers:
   wG4btBMAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -26,6 +26,6 @@ papers:
     title: 'Hydrogen bonding in liquid water at 1 GPa: Molecular dynamics simulation study of TIP4P/2005 water model'
     year: '2022'
   wG4btBMAAAAJ:u5HHmVD_uO8C:
-    citations: 12
+    citations: 13
     title: 'Effect of static electric fields on liquid water, its structure, dynamics, and hydrogen bond asymmetry: A molecular dynamics simulation study of TIP4P/2005 water model'
     year: '2023'
