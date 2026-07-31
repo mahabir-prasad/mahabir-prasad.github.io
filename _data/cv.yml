@@ -1,5 +1,5 @@
 cv:
-  name: Mahabir Prasad
+  name: Dr. Mahabir Prasad
   label: Postdoctoral Researcher
   email: m.prasad@hzdr.de
   location: Conrad-Schiedt-Str. 20, D-02826 Görlitz, Germany
@@ -103,7 +103,7 @@ cv:
         location: Görlitz, Germany
         start_date: 2024
         end_date: Present
-        #summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        summary: Supervisor:  Prof. Thomas D. Kühne
         #highlights:
         #  - Relativity
         #  - Description 2.
