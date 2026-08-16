@@ -157,6 +157,14 @@ cv:
         #summary: Awarded for outstanding scientific achievement
 
     Publications:
+      - title: Understanding solid-liquid phase transition in Titanium from well-tempered metadynamics simulations
+        authors:
+          -  Manash Protim Hazarika, Mahabir Prasad, Ajay Tripathi and Somendra Nath Chakraborty
+        publisher: Chemical Physics Letters
+        releaseDate: 2026-08-15
+        url: https://www.sciencedirect.com/science/article/pii/S0009261426003763?via%3Dihub
+        #summary: $^{*}$Equal contribution
+
       - title: Ultranarrow nanochannels in a staggered two-dimensional polymer membrane enhance electric double-layer coverage for osmotic energy harvesting
         authors:
           - Feng Ni$^{*}$, Ye Yang$^{*}$, Shuangjie Zhao$^{*}$, **Mahabir Prasad$^{*}$**, Naveen Goyal, Xusheng Yang, Dongxu Wang, Jianjun Zhang, Mike Hambsch, Miroslav Polozij,
