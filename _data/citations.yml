@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-24'
 papers:
   wG4btBMAAAAJ:2osOgNQ5qMEC:
-    citations: 7
+    citations: 8
     title: On-liquid surface synthesis of diyne-linked two-dimensional polymer crystals
     year: '2025'
   wG4btBMAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Molecular Dynamics Simulation Study of Liquid Waters and its Properties
     year: '2021'
+  wG4btBMAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: "Understanding solid\u2013liquid phase transition in Titanium from well-tempered metadynamics simulations"
+    year: '2026'
   wG4btBMAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Ultranarrow nanochannels in a staggered two-dimensional polymer membrane enhance electric double-layer coverage for osmotic energy harvesting
