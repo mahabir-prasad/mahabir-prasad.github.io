@@ -100,7 +100,7 @@ images:
     #  Standing next to my poster during the evening session — great
     #  conversations and a few new collaborations sparked here.
 
-  - path: assets/img/gallery/chem2dmat-8.jpeg
+  - path: assets/img/gallery/chem2dmat-3.jpeg
     title: At chem2Dmat - European Conference on Chemistry of Two-dimensional materials, Valencia, Spain
     date: 2026-10-28
     #description: >
