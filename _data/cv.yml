@@ -224,6 +224,13 @@ cv:
         #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Conferences:
+      - title: chem2Dmat - European Conference on Chemistry of Two-dimensional materials, Valencia, Spain
+        #authors: 
+        publisher: ADEIT - Fundación Universidad-Empresa, Valencia, Spain 
+        releaseDate: 2026
+        url: https://www.chem2dmatconf.org/2026/
+        #summary: Talk Title : Understanding Relaxation Dynamics of Supercooled Liquid Water from Molecular Dynamics Simulation.
+
       - title: 1$^{st}$ International Symposium and Autumn School on "Chemistry, Physics & Devices of Organic 2D Crystals
         #authors: 
         publisher: Dresden University of Technology (TUD), Germany
