@@ -84,5 +84,26 @@ images:
     date: 2022-11-18
     #description: >
     #  Standing next to my poster during the evening session — great
+    #  conversations and a few new collaborations sparked here.
+
+  - path: assets/img/gallery/chem2dmat-1.jpeg
+    title: At chem2Dmat - European Conference on Chemistry of Two-dimensional materials, Valencia, Spain
+    date: 2026-10-28
+    #description: >
+    #  Standing next to my poster during the evening session — great
+    #  conversations and a few new collaborations sparked here.
+
+  - path: assets/img/gallery/chem2dmat-2.jpeg
+    title: At chem2Dmat - European Conference on Chemistry of Two-dimensional materials, Valencia, Spain
+    date: 2026-10-27
+    #description: >
+    #  Standing next to my poster during the evening session — great
+    #  conversations and a few new collaborations sparked here.
+
+  - path: assets/img/gallery/chem2dmat-8.jpeg
+    title: At chem2Dmat - European Conference on Chemistry of Two-dimensional materials, Valencia, Spain
+    date: 2026-10-28
+    #description: >
+    #  Standing next to my poster during the evening session — great
     #  conversations and a few new collaborations sparked here. 
 ---
